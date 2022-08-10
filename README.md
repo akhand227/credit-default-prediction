@@ -24,7 +24,7 @@ Data has been collected from <a href="https://archive.ics.uci.edu/ml/datasets/de
  - ROC curve
  - Area under the curve (AUC)
 
-At 80% accuracy we consider our model as successful. 
+At or above 80% accuracy we consider our model as successful. 
 For evaluation check: credit-card-default-payment-prediction.ipynb 
 
 ### Data Features
