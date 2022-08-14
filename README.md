@@ -1,4 +1,4 @@
-## Predicting Defaulting Rate of Users for next Credit Card Payment
+## Predicting Default for the next Credit Payment
 
 ### Problem Statement
 Given certain parameters predict the chances of a client defaulting on his/her next credit card payments.
