@@ -12,7 +12,7 @@ Data has been collected from <a href="https://archive.ics.uci.edu/ml/datasets/de
  - RandomForestClassifier
  - LogisticRegression
 
-**After training the models will be assessed using:**
+**After training the models, we also performed the following:**
  - Hypyterparameter tuning
  - Feature importance
  - Confusion matrix
